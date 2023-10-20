@@ -1,0 +1,21 @@
+.top, .buttons{
+    display: flex;
+    gap:100px;
+}
+
+.button{
+    display: inline-block;
+    justify-content: center;
+    height: 50px;
+    width: 200px;
+}
+
+.block{
+    height: 100px;
+    width: 100px;
+    background-color: lightgray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
